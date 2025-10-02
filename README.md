@@ -32,6 +32,13 @@ Export laporan ke format Excel/CSV.
 
 Visualisasi sederhana (grafik & tabel interaktif).
 
+## Dokumentasi beberapa fitur web
+Beberapa dokumentasi berikut adalah sebagian kecil dari keseluruhan dashbaord opertaional, fitur yang ditampilkan merupakan hasil kerja penulis. Data yang dimasukkan adalah data dummy.<br>
+<img src = "Images/Login.png" width="1080" heigth="1080" /><br>
+<img src = "Images/Menu ops sarot.png" width="1080" heigth="1080" /><br>
+<img src = "Images/Recalculate Dropping.png" width="1080" heigth="1080" /><br>
+<img src = "Images/Recalculate po.png" width="1080" heigth="1080" /><br>
+
 📊 Dampak / Manfaat
 
 Efisiensi: Menghemat waktu tim ±XX% dibanding proses manual.
