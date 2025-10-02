@@ -15,49 +15,42 @@ Dashboard ini rencananya akan dikembangkan untuk proses operational tim data dan
 
 ## ⚙️ Teknologi yang Digunakan
 
-### Backend: Flask (Python)
-### Frontend: Bootstrap / Tailwind / HTML / CSS
-### Database: MySQL (versi internal menggunakan database perusahaan, tidak bisa dishare pada repository ini)
-### Deployment: Local server
+#### Backend: Flask (Python)
+#### Frontend: Bootstrap / Tailwind / HTML / CSS
+#### Database: MySQL (versi internal menggunakan database perusahaan, tidak bisa dishare pada repository ini)
+#### Deployment: server internal perusahaan
 
 ## 🚀 Fitur Utama
 
-Login sederhana (versi demo: dummy auth).
+1. Login sederhana (versi demo: dummy auth).
+2. Dashboard ringkas untuk monitoring data.
+3. Menu Operational untuk SariRoti
+   - Menu recalculate data
+   - Menu hawker tracker
+   - Jadwal shifting tim data
+   - Monitoring anomali data
+   - Tiketing request
+4. Menu Operational general
 
-Dashboard ringkas untuk monitoring data.
-
-Filter & pencarian data.
-
-Export laporan ke format Excel/CSV.
-
-Visualisasi sederhana (grafik & tabel interaktif).
-
-## Dokumentasi beberapa fitur web
+## 📑 Dokumentasi beberapa fitur web
 Beberapa dokumentasi berikut adalah sebagian kecil dari keseluruhan dashbaord opertaional, fitur yang ditampilkan merupakan hasil kerja penulis. Data yang dimasukkan adalah data dummy.<br>
 <img src = "Images/Login.png" width="1080" heigth="1080" /><br>
-<img src = "Images/Menu ops sarot.png" width="1080" heigth="1080" /><br>
+<img src = "Images/Dashboard.png" width="1080" heigth="1080" /><br>
+<img src = "Images/Menus.png" width="1080" heigth="1080" /><br>
 <img src = "Images/Recalculate Dropping.png" width="1080" heigth="1080" /><br>
 <img src = "Images/Recalculate po.png" width="1080" heigth="1080" /><br>
 
-📊 Dampak / Manfaat
+## 📊 Dampak / Manfaat
 
-Efisiensi: Menghemat waktu tim ±XX% dibanding proses manual.
+Dashboard internal ini memiliki beberapa manfaat baik untuk internal tim data serta klien dalam hal ini SariRoti, diantaranya:
 
-Akurasi: Mengurangi risiko human error dalam pengolahan data.
+- Efisiensi: Menghemat waktu tim ±20% dibanding proses manual dalam proses recalculate data.
+- Akurasi: Mengurangi risiko human error dalam pengolahan data yang dapat mempengaruhi sales.
+- Kolaborasi: Memudahkan tim dalam mengakses monitoring data anomali agar segera dapat ditangani.
 
-Kolaborasi: Memudahkan tim dalam mengakses data secara real-time.
-
-📝 Catatan
+## 📝 Catatan
 
 Kode asli & data internal tidak dipublikasikan karena bersifat rahasia perusahaan.
-
 Repository ini hanya berisi dokumentasi, struktur umum, dan contoh dummy untuk menunjukkan konsep dan arsitektur aplikasi.
 
-📂 Struktur Dummy Project (Opsional)
-project-dashboard/
-│── app.py
-│── requirements.txt
-│── /static
-│── /templates
-│   └── index.html
-│── README.md
+
