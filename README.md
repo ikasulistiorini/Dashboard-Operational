@@ -35,10 +35,10 @@ Dashboard ini rencananya akan dikembangkan untuk proses operational tim data dan
 ## 📑 Dokumentasi beberapa fitur web
 Beberapa dokumentasi berikut adalah sebagian kecil dari keseluruhan dashbaord opertaional, fitur yang ditampilkan merupakan hasil kerja penulis. Data yang dimasukkan adalah data dummy.<br>
 <img src = "Images/Login.png" width="1080" heigth="1080" /><br>
-<!-- <img src = "Images/Dashboard.png" width="1080" heigth="1080" /><br> 
+<img src = "Images/Dashboard.png" width="1080" heigth="1080" /><br> 
 <img src = "Images/Menus.png" width="1080" heigth="1080" /><br>
-<img src = "Images/Recalculate Dropping.png" width="1080" heigth="1080" /><br> -->
-<img src = "Images/Recalculate po.png" width="1080" heigth="1080" /><br>
+<!-- <img src = "Images/Recalculate Dropping.png" width="1080" heigth="1080" /><br>
+<img src = "Images/Recalculate po.png" width="1080" heigth="1080" /><br> -->
 
 ## 📊 Dampak / Manfaat
 
@@ -50,7 +50,7 @@ Dashboard internal ini memiliki beberapa manfaat baik untuk internal tim data se
 
 ## 📝 Catatan
 
-Kode asli & data internal tidak dipublikasikan karena bersifat rahasia perusahaan.
+Kode asli & data internal tidak dipublikasikan karena bersifat internal tim.
 Repository ini hanya berisi dokumentasi, struktur umum, dan contoh dummy untuk menunjukkan konsep dan arsitektur aplikasi.
 
 
