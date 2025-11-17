@@ -37,8 +37,8 @@ Beberapa dokumentasi berikut adalah sebagian kecil dari keseluruhan dashbaord op
 <img src = "Images/Login.png" width="1080" heigth="1080" /><br>
 <img src = "Images/Dashboard.png" width="1080" heigth="1080" /><br> 
 <img src = "Images/Menus.png" width="1080" heigth="1080" /><br>
-<!-- <img src = "Images/Recalculate Dropping.png" width="1080" heigth="1080" /><br>
-<img src = "Images/Recalculate po.png" width="1080" heigth="1080" /><br> -->
+<img src = "Images/Recalculate Dropping.png" width="1080" heigth="1080" /><br>
+<img src = "Images/Recalculate po.png" width="1080" heigth="1080" /><br>
 
 ## 📊 Dampak / Manfaat
 
